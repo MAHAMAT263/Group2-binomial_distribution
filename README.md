@@ -10,6 +10,7 @@ This project delves into the application of the binomial distribution through va
 # 1. Slides:
 
 Here is the [link]([(https://www.canva.com/design/DAGTLelAXTw/9pR0bzBMW2qpNYp47uXtaA/edit?utm_content=DAGTLelAXTw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)])
+
 The included slides provide a comprehensive visual explanation of the binomial distribution, encompassing:
 
 - **Diagram:** A clear visual representation of the probability distribution's shape, highlighting the variation of probability across different numbers of successes.
@@ -20,6 +21,7 @@ The included slides provide a comprehensive visual explanation of the binomial d
 # 2. Python Code Example (NumPy):
 
 The project provides a Python code snippet implemented using the NumPy library. Here is the [link]([url](https://colab.research.google.com/drive/1V-bMDt-Sm0ZiV7KzDa7SjzlrLhgm1hfS?usp=sharing))
+
 This code demonstrates:
 
 - **Calculation:** The script calculates the probability mass function (PMF) for each possible number of successes (k) using NumPy's built-in mathematical functions and factorial calculations.
