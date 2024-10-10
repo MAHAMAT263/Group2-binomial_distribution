@@ -9,7 +9,7 @@ This project delves into the application of the binomial distribution through va
 
 # 1. Slides:
 
-Here is the [link]([url](https://www.canva.com/design/DAGTLelAXTw/9pR0bzBMW2qpNYp47uXtaA/edit?utm_content=DAGTLelAXTw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+Here is the [link]([(https://www.canva.com/design/DAGTLelAXTw/9pR0bzBMW2qpNYp47uXtaA/edit?utm_content=DAGTLelAXTw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)])
 The included slides provide a comprehensive visual explanation of the binomial distribution, encompassing:
 
 - **Diagram:** A clear visual representation of the probability distribution's shape, highlighting the variation of probability across different numbers of successes.
