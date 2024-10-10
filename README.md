@@ -20,8 +20,8 @@ The included slides provide a comprehensive visual explanation of the binomial d
 
 # 2. Python Code Example (NumPy):
 
-The project provides a Python code snippet implemented using the NumPy library. Here is the [link]((https://colab.research.google.com/drive/1V-bMDt-Sm0ZiV7KzDa7SjzlrLhgm1hfS?usp=sharing))
-
+The project provides a Python code snippet implemented using the NumPy library. Here is the [link
+](https://colab.research.google.com/drive/1V-bMDt-Sm0ZiV7KzDa7SjzlrLhgm1hfS?usp=sharing)
 This code demonstrates:
 
 - **Calculation:** The script calculates the probability mass function (PMF) for each possible number of successes (k) using NumPy's built-in mathematical functions and factorial calculations.
