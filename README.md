@@ -41,5 +41,5 @@ The provided Python code addresses this question by:
 - **Visualization:** Generating a bar chart using Matplotlib to visualize the PMF, providing an intuitive understanding of the probabilities associated with different numbers of defective batteries.
 
 # 4. Video Demo:
-- A video presentation (maximum 7 minutes) by the group is also included, Here is the link.
+- A video presentation (maximum 7 minutes) by the group is also included, Here is the [link](https://drive.google.com/file/d/1Vr2ipRTKjnXJ6b3awdbDXTsJ25JJH7Z7/view?usp=sharing).
 
